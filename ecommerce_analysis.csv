@@ -1,0 +1,11 @@
+Customer_ID,Product,Category,Quantity,Price,Discount,City,Payment_Mode
+C001,Wireless Mouse,Electronics,2,799,10,Mumbai,UPI
+C002,Running Shoes,Footwear,1,2499,15,Delhi,Credit Card
+C003,Bluetooth Speaker,Electronics,1,1999,5,Bengaluru,Debit Card
+C004,Cotton T-Shirt,Apparel,3,599,20,Pune,Cash on Delivery
+C005,Yoga Mat,Fitness,1,899,0,Hyderabad,UPI
+C006,Office Chair,Furniture,1,5499,10,Chennai,Net Banking
+C007,Face Cream,Beauty,2,349,25,Kolkata,UPI
+C008,Laptop Backpack,Accessories,1,1299,10,Ahmedabad,Credit Card
+C009,Smartwatch,Electronics,1,3999,15,Jaipur,Debit Card
+C010,Non-stick Pan,Kitchen,2,1099,5,Lucknow,Cash on Delivery

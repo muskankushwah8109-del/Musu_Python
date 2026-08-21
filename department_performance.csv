@@ -1,0 +1,11 @@
+Employee_ID,Department,Gender,Experience,Salary,Performance_Score,Projects_Completed
+E001,Sales,Male,5,55000,8.2,12
+E002,Marketing,Female,3,48000,7.5,9
+E003,Engineering,Male,8,95000,9.1,20
+E004,HR,Female,4,42000,7.8,7
+E005,Engineering,Female,6,88000,8.9,17
+E006,Finance,Male,10,110000,8.5,15
+E007,Sales,Female,2,40000,6.9,5
+E008,Marketing,Male,7,60000,8.0,14
+E009,Finance,Female,5,72000,8.3,11
+E010,HR,Male,9,65000,7.2,10
