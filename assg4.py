@@ -1,6 +1,6 @@
 import numpy as pd 
 import pandas as pd
-df=pd.read_csv(r"C:\Users\muska\OneDrive\muskan csf pdf\ipl-matches.csv")
+df=pd.read_csvc(r"C:\Users\muska\OneDrive\muskan csf pdf\ipl-matches.csv")
 print(df)
 print(df.isnull())
 print(df.describe())
