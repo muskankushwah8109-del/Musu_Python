@@ -13,3 +13,4 @@ a = df.groupby("Department")["Performance_Score"].mean()
 print(a[a > 80])
 print(df.groupby(["Department", "Gender"]).size())
 print(df.loc[df.groupby("Department")["Salary"].idxmax()])
+
